@@ -39,7 +39,7 @@ Previously  →  AppExits
 ![Alamofire](https://img.shields.io/badge/Alamofire-E64A19?style=flat-square&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![CoreData](https://img.shields.io/badge/CoreData-2396F3?style=flat-square&logo=apple&logoColor=white)
-![AVFoundation](https://img.shields.io/badge/AVFoundation-000?style=flat-square&logo=apple&logoColor=white)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-4F46E5?style=flat-square&logo=apple&logoColor=white)
 ![VisionKit](https://img.shields.io/badge/VisionKit-5C5C5C?style=flat-square&logo=apple&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-25A162?style=flat-square)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
