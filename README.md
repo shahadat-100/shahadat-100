@@ -75,13 +75,6 @@ Previously  →  AppExits
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=shahadat-100&hide_border=true&ring=238636&fire=F05138&currStreakLabel=f0f6fc&sideLabels=8b949e&dates=8b949e&stroke=21262d&background=0d1117&currStreakNum=f0f6fc&sideNums=f0f6fc" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahadat-100&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=238636&ring_color=238636" />
-
-</div>
-
 <br>
 
 ---
