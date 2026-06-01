@@ -53,19 +53,6 @@ Junior iOS Developer at **CIBL, Dhaka Cantonment**, building large-scale native 
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=shahadat-100&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=555555&bg_color=ffffff&rank_icon=github&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-100&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" />
-
-</div>
-
----
 
 ## Streak
 
@@ -75,17 +62,6 @@ Junior iOS Developer at **CIBL, Dhaka Cantonment**, building large-scale native 
 
 </div>
 
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahadat-100&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=8" />
-
-</div>
-
----
 
 ## Selected Projects
 
