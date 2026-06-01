@@ -1,14 +1,22 @@
 <div align="center">
+
 ![Shahadat Hossen](./banner.svg)
+
 </div>
+
 <br>
+
 <div align="center">
+
 [![Portfolio](https://img.shields.io/badge/↗_Portfolio-FFFFFF?style=for-the-badge&logoColor=black&color=FFFFFF)](https://portfolioshahadat.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadat-hossen-25bb59331/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ios.shahadathossen@gmail.com)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/itsmearyan10/)
+
 </div>
+
 <br>
+
 ```
 Currently   →  Junior iOS Developer @ CIBL, Dhaka Cantonment
                ▸ National Bank Ltd. — NBLiPower
@@ -16,9 +24,13 @@ Currently   →  Junior iOS Developer @ CIBL, Dhaka Cantonment
 Education   →  BSc CSE · Northern University of Bangladesh
 Previously  →  AppExits
 ```
+
 <br>
+
 ## ⌦ Stack
+
 <div align="center">
+
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-2396F3?style=flat-square&logo=swift&logoColor=white)
@@ -33,11 +45,17 @@ Previously  →  AppExits
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
 </div>
+
 <br>
+
 ## ⌦ Projects
+
 <br>
+
 <div align="center">
+
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
 | `01` | [**NBLiPower**](https://apps.apple.com/sa/app/nbl-apps/id1529330952) | iOS banking — National Bank Ltd. Account mgmt, fund transfers, NPSB, bill pay | `Swift` `UIKit` `MVC` `Alamofire` `CoreData` |
@@ -46,13 +64,23 @@ Previously  →  AppExits
 | `04` | [**ChatBuddy**](https://github.com/shahadat-100/ChatBuddy-FSP) | Real-time iOS chat — Firebase backend, MessageKit UI | `Swift` `Firebase` |
 | `05` | [**ExpenseX**](https://github.com/shahadat-100/ExpenseX) | Personal finance & budget tracker | `Swift` `CoreData` |
 | `06` | [**CloudCast**](https://github.com/shahadat-100/CloudCast) | Live weather forecast app | `Swift` `REST API` |
+
 </div>
+
 <br>
+
 ## ⌦ Activity
+
 <div align="center">
+
 <img src="https://streak-stats.demolab.com/?user=shahadat-100&hide_border=true&ring=238636&fire=F05138&currStreakLabel=f0f6fc&sideLabels=8b949e&dates=8b949e&stroke=21262d&background=0d1117&currStreakNum=f0f6fc&sideNums=f0f6fc" />
+
+</div>
+
 <br>
+
 ---
+
 <div align="center">
 <sub>SHAHADAT HOSSEN &nbsp;·&nbsp; iOS DEVELOPER &nbsp;·&nbsp; Dhaka Bangladesh</sub>
 </div>
