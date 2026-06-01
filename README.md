@@ -59,8 +59,8 @@ Previously  →  AppExits
 
 | &nbsp; | Project | Description | Stack |
 |:---:|:---|:---|:---|
-| `01` | [**NBLiPower**](https://apps.apple.com/sa/app/nbl-apps/id1529330952) | iOS banking — National Bank Ltd. Account mgmt, fund transfers, NPSB, bill pay | `Swift` `UIKit` `MVC` ||`Alamofire` `CoreData` |
-| `02` | **Trust Money** | Banking app — FDR/DPS modules, bKash & Nagad wallet integration || `Swift` `UIKit` `MVC` |`Alamofire` `CoreData` |
+| `01` | [**NBLiPower**](https://apps.apple.com/sa/app/nbl-apps/id1529330952) | iOS banking — National Bank Ltd. Account mgmt, fund transfers, NPSB, bill pay | `Swift` `UIKit` `MVC` `Alamofire` `CoreData` |
+| `02` | **Trust Money** | Banking app — FDR/DPS modules, bKash & Nagad wallet integration || `Swift` `UIKit` `MVC` `Alamofire` `CoreData` |
 | `03` | **AIVideoGencut** | AI-assisted video editor — smart cut, auto-enhance, export | `AVFoundation` `VisionKit` |
 | `04` | [**ChatBuddy**](https://github.com/shahadat-100/ChatBuddy-FSP) | Real-time iOS chat — Firebase backend, MessageKit UI | `Swift` `Firebase` |
 | `05` | [**ExpenseX**](https://github.com/shahadat-100/ExpenseX) | Personal finance & budget tracker | `Swift` `CoreData` |
