@@ -1,81 +1,62 @@
 <div align="center">
 
+<br>
+
+<sub>iOS DEVELOPER · DHAKA, BD</sub>
+
 # Shahadat Hossen
-### iOS Developer · Swift · UIKit · Fintech
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=555555&center=true&vCenter=true&width=500&height=35&lines=Junior+iOS+Developer+%40+CIBL%2C+Dhaka;Swift+%C2%B7+UIKit+%C2%B7+MVC+%C2%B7+Fintech;Building+production-grade+banking+apps)](https://git.io/typing-svg)
+<sub>Swift · UIKit · MVC · Fintech — building production banking apps</sub>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolioshahadat.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadat-hossen-25bb59331/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ios.shahadathossen@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logoColor=white)](https://portfolioshahadat.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadat-hossen-25bb59331/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ios.shahadathossen@gmail.com)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/itsmearyan10/)
 
 </div>
 
----
-
-## About
-
-Junior iOS Developer at **CIBL, Dhaka Cantonment**, building large-scale native iOS banking applications. Focused on security, clean MVC architecture, and financial integrations. Previously at **AppExits** shipping App Store products.
-
-- 🏦 Current: Mobile banking — **National Bank Ltd.** & **Trust Bank**
-- 📱 Native iOS — Swift, UIKit, MVC, REST API
-- 🎓 BSc CSE · Northern University of Bangladesh
-- 📍 Dhaka Cantonment, Bangladesh
+<br>
 
 ---
 
-## Tech Stack
+**Currently** &nbsp;·&nbsp; Junior iOS Developer at **CIBL, Dhaka Cantonment**
+&nbsp;&nbsp;▸ National Bank Ltd. — NBLiPower
+&nbsp;&nbsp;▸ Trust Bank — Trust Money
 
-**Language**
+**Education** &nbsp;·&nbsp; BSc CSE · Northern University of Bangladesh
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Previously** &nbsp;·&nbsp; AppExits
 
-**Frameworks & Libraries**
+---
 
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-2396F3?style=flat-square&logo=swift&logoColor=white)
-![Alamofire](https://img.shields.io/badge/Alamofire-E64A19?style=flat-square&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![CoreData](https://img.shields.io/badge/CoreData-2396F3?style=flat-square&logo=apple&logoColor=white)
-![AVFoundation](https://img.shields.io/badge/AVFoundation-000000?style=flat-square&logo=apple&logoColor=white)
-![VisionKit](https://img.shields.io/badge/VisionKit-5C5C5C?style=flat-square&logo=apple&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
+## Stack
 
-**Architecture & Tools**
+`Swift` `UIKit` `SwiftUI` `MVC` `Alamofire` `Firebase` `CoreData`
+`AVFoundation` `VisionKit` `REST API` `Xcode` `Git` `CocoaPods` `Cloudinary`
 
-![MVC](https://img.shields.io/badge/MVC-555555?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-25A162?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP%2FDSA-555555?style=flat-square)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
+## Projects
 
-## Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=shahadat-100&hide_border=true&ring=000000&fire=555555&currStreakLabel=000000&sideLabels=555555&dates=999999&stroke=eeeeee&background=ffffff" />
-
-</div>
-
-
-## Selected Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **NBLiPower** | iOS banking app — National Bank Ltd. Account mgmt, fund transfers, NPSB, bill pay | Swift · UIKit · REST · MVC |
-| **Trust Money** | Banking concept — FDR/DPS modules, bKash/Nagad wallet integration | Swift · UIKit · Alamofire · CoreData |
-| **AIVideoGencut** | AI-assisted iOS video editor — auto-enhancement, smart cut, export | Swift · AVFoundation · VisionKit |
-| [ChatBuddy-FSP](https://github.com/shahadat-100/ChatBuddy-FSP) | Real-time iOS chat — Firebase backend, MessageKit UI | Swift · Firebase |
-| [ExpenseX](https://github.com/shahadat-100/ExpenseX) | Finance tracker — personal budget management | Swift · CoreData |
-| [CloudCast](https://github.com/shahadat-100/CloudCast) | Weather app — live forecast | Swift · REST API |
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 01 | **NBLiPower** | iOS banking — National Bank Ltd. Account mgmt, fund transfers, NPSB, bill pay | Swift · UIKit · MVC |
+| 02 | **Trust Money** | FDR/DPS modules, bKash & Nagad wallet integration | Alamofire · CoreData |
+| 03 | **AIVideoGencut** | AI-assisted video editor — smart cut, auto-enhance, export | AVFoundation · VisionKit |
+| 04 | [**ChatBuddy**](https://github.com/shahadat-100/ChatBuddy-FSP) | Real-time iOS chat with Firebase backend | Swift · Firebase |
+| 05 | [**ExpenseX**](https://github.com/shahadat-100/ExpenseX) | Personal finance tracker | Swift · CoreData |
+| 06 | [**CloudCast**](https://github.com/shahadat-100/CloudCast) | Live weather forecast app | Swift · REST API |
 
 ---
 
 <div align="center">
-<sub>SHAHADAT HOSSEN · iOS Developer · Dhaka, BD</sub>
+
+<img src="https://streak-stats.demolab.com/?user=shahadat-100&hide_border=true&ring=000000&fire=555555&currStreakLabel=000000&sideLabels=555555&dates=999999&stroke=eeeeee&background=ffffff00" />
+
+<br><br>
+
+<sub>SHAHADAT HOSSEN · iOS DEVELOPER · DHAKA BD</sub>
+
 </div>
