@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/↗_Portfolio-0d1117?style=for-the-badge&logoColor=white)](https://portfolioshahadat.vercel.app)&nbsp;
+[![Portfolio](https://img.shields.io/badge/↗_Portfolio-FFFFFF?style=for-the-badge&logoColor=black&color=FFFFFF)](https://portfolioshahadat.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahadat-hossen-25bb59331/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ios.shahadathossen@gmail.com)&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/itsmearyan10/)
